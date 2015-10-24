@@ -1,0 +1,43 @@
+Compare com a concorrência e comprove: 
+Hospedagem HOST101 é a melhor.
+
+
+Linguagens suportadas
+PHP
+Ruby
+
+
+Banco de dados:
+-PostGree
+-MySQL
+
+Hospede seu site com a qualidade Host101.
+
+PIAZITO
+A sua porta de entrada na internet.
+1 GB de espaço para o site
+Tráfego ILIMITADO
+1 GB de espaçco para e-mail
+Aprox. 1000 acessos diários
+
+ESPECIAL
+Soluções avançadas a um baixo custo.
+2 GB de espaço para o site
+Tráfego ILIMITADO
+2 GB de espaço para e-mail
+Aprox. 3000 acessos diários
+
+BUENAÇO
+O plano ideal para aplicações mais robustas.
+3 GB de espaço para o site
+Tráfego ILIMITADO
+3 GB de espaço para e-mail
+Aprox. 2000 acessos diários
+
+
+MACANUDO
+Ideal para grandes aplicações e alto tráfego.
+4 GB de espaço para o site
+Tráfego ILIMITADO
+4 GB de espaçco para e-mail
+Aprox. 1000 acessos diários
